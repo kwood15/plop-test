@@ -4,7 +4,7 @@ export interface TestingProps {
 
 }
 
-export function Testing (props: TestingProps) {
+export function Testing(props: TestingProps) {
   
   return (
     <div>
