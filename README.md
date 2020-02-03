@@ -1,5 +1,5 @@
 ### Run Template Generator
 
 ```javascript
-npm run plop
+npm run plop 
 ```
