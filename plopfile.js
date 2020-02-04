@@ -42,7 +42,7 @@ module.exports = function(plop) {
       {
         type: "add",
         path: "./src/components/{{path}}/{{pascalCase name}}.tsx",
-        templateFile: "plop-templates/component-function-with-hooks.hbs",
+        templateFile: "plop-templates/component-hooks.hbs",
         skipIfExists: true
       }
     ]
@@ -66,7 +66,7 @@ module.exports = function(plop) {
       {
         type: "add",
         path: "./src/components/{{path}}/{{pascalCase name}}.tsx",
-        templateFile: "plop-templates/component-function-arrow.hbs",
+        templateFile: "plop-templates/component-arrow.hbs",
         skipIfExists: true
       }
     ]
