@@ -14,5 +14,8 @@
   "devDependencies": {
     "typescript": "^3.7.5",
     "plop": "^2.5.3"
+  },
+  "dependencies": {
+    "react": "^16.12.0"
   }
 }
