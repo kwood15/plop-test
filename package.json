@@ -12,11 +12,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "plop": "^2.5.3",
-    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   },
   "dependencies": {
+    "plop": "^2.5.3",
+    "inquirer-directory": "^2.2.0",
     "react": "^16.12.0"
   }
 }

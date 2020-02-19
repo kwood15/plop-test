@@ -3,6 +3,7 @@
     "target": "es5",
     "esModuleInterop": true,
     "module": "es6",
-    "moduleResolution": "node"
+    "moduleResolution": "node",
+    "jsx": "preserve",
   }
 }
